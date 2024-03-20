@@ -33,6 +33,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/heloisajesus-ieg/OneDrive - Instituto Germinare/Área de Trabalho/TECH/POO/Git/POO_prati1grp_tE",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -54,7 +55,11 @@
       <updated>1710929332015</updated>
       <workItem from="1710929333650" duration="89000" />
       <workItem from="1710930650704" duration="85000" />
+<<<<<<< HEAD
       <workItem from="1710931109431" duration="52000" />
+=======
+      <workItem from="1710931488381" duration="34000" />
+>>>>>>> produto
     </task>
     <servers />
   </component>
